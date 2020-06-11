@@ -1,12 +1,14 @@
 # Birds-Species-Classification
-Birds Species Classification using Keras pretrained model. (200 different species).
+        Birds Species Classification using Keras pretrained model. (200 different species).
 
-Dataset link: http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
+        Dataset link: http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 
-Before processing for training:
-    1. Split the data into traning and validation as given in the split.txt file (0-validation and 1- texting). 
-       Simply write a code for it. Finally dataset should be arranged in following way.
-       Arranged a data in following structure of directories:
+        Before processing for training:
+             1. Split the data into traning and validation as given in the split.txt file (0-validation and 1- texting). 
+                Simply write a code for it. Finally dataset should be arranged in following way.
+                
+                
+                 Arranged a data in following structure of directories:
                   Dataset--
                   1.--Train----
                   
